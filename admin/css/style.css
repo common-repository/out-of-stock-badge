@@ -1,0 +1,240 @@
+.wooLiveSalenav-tab{
+        border: 0px;
+    background: white;
+}
+.wooLiveSalenav-tabnav-tab-wrapper  a {
+    box-shadow: 1px 3px 3px 0px #e4e4e4;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab {
+    border: 0px;
+    background: white;
+}
+.woo-live-saleTabs{
+    width: 96.8%;
+    background: white;
+    padding: 20px;
+    padding-top: 60px;
+    padding-right: 0px;
+    display: block;
+}
+.setting-left-sp{
+       width: 100%;
+    float: left;
+    background: white;
+    margin-left: -20px;
+    padding: 20px;
+}
+.display-right-sp{
+    width: 50%;
+    float: left;
+}
+.list-sp{
+        display: block;
+    margin-top: 10px;
+    background: whitesmoke;
+    padding: 20px;
+    width: 40%;
+    float: left;
+}
+.poll-left{
+  padding: 3px;
+    background: white;
+    float: left;
+    width: 48%;
+}
+.image-preview-wrapper{
+    padding: 40px;
+}
+.polling-preview-1{
+    text-align: center;
+}
+.names-list{
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 320px;
+}
+.polling-title{
+    text-align: center;
+}
+.person-name{
+        max-width: 180px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 11px;
+}
+.polling-title{
+    width: 100%;
+    text-align:center;
+}
+.list-sp-left{
+    width: 31%;
+    min-width: 300px;
+}
+.list-polling-right{
+    width: 60%;
+}
+.cont-polling {
+    display: flow-root;
+    margin-left: auto;
+    margin-right: auto;
+        max-width: 373px;
+}
+input.radio-select{
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+div.list-polling-right button.delete-current-polling{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        margin-top: 30px;
+}
+.limitations{
+    
+}
+.short-code-div{
+        padding: 10px;
+    background: #03a9f4;
+    color: white;
+    margin-top: 20px;
+}
+
+.sold-out-overlay {
+background: #654ea3;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px;
+position: absolute;
+right: 50px;
+top: 10px;
+}
+
+
+/* xxx */
+.intro_text_class{
+	
+	color:red;
+}
+
+/* Free Of Charge plugin styling */
+/* admin left container [notes to user] styling */
+
+
+.enter-text {
+	margin-top: 0px !important;
+}
+.enter-text-span {
+	padding-left: 25px !important;
+}
+.container_for_left_and_right {
+    display: flex;
+    width: 80vw;
+    background: #ffffff;
+    height: 24vw;
+    border-radius: 10px;
+}
+.container_left {
+	color: black !important;
+	width: 50% !important;
+	float: left !important;
+	padding: 2vw;
+}
+.container_right {
+	width: 50% !important;
+	background: #ffffff !important;
+	padding: 2vw;
+	border-left:1px solid #000;
+}
+
+.tabbedElements_firstTab {
+	height: 50px;
+}
+
+
+.intro_text_class {
+	color: black;
+}
+
+#arrowd_Colour_free_of_charge_bk {
+	width: 212px !important;
+}
+
+
+.names-list-first-name {
+	margin-bottom: 10px !important;
+	width: 20vw;
+	float:right;
+	margin-right:4%;	
+}
+
+
+.drod_focb-ad {
+	margin-left: 25px !important;
+	
+}
+.button-primary-update-names-and-titles{
+	margin-right: 25px;
+	padding-bottom: 8px;
+	padding-top: 4px;
+	background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+	transition-duration: 0.4s;
+  	cursor: pointer;
+	float:right;
+}
+
+.button-primary-update-names-and-titles:hover 
+{
+	background-color: #e7e7e7;
+	background: #fff;
+    border-color: #000;
+    color: #2271b1;
+}
+.arrowD_notesDiv{
+	    background-color: #3d3df9;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+}
+.arrowD_colorPicker{
+	float:right;
+	margin-right:4%;
+}
+
+.arrowD_example_soldOutDiv_holder{
+    background-color: #fff;
+    width: 80vw;
+    border-top: 1px solid #000;
+    padding-top: 1vw;
+	padding-bottom: 2vw;
+}
+.arrowD_example_soldOutDiv{
+margin-left:auto;
+margin-right:auto;
+    background-color: #e3d9d9;
+    width: 16vw;
+    height: 16vw;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.arrowD_soldOutBadgeDiv{
+	color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px 10px 5px 10px;
+    position: relative;
+    height: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
